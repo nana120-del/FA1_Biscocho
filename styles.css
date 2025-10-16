@@ -1,0 +1,92 @@
+
+
+#wrapper {
+    width: 70%;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: rgb(244, 255, 255);
+}
+
+#nav {
+    float: right;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(214, 239, 239);
+}
+
+#check {
+    font-weight: 550;
+}
+
+h2 {
+  font-family: "Noto Sans Mono", monospace;
+  color: rgb(28, 28, 105);
+  background-color: rgb(194, 232, 232);
+  margin-left: -15px;
+  margin-right: -15px;
+  padding: 5px;
+  width: 40%;
+}
+
+h1 {
+  font-family: "Hammersmith One", sans-serif;
+}
+
+.info a:link {
+    color: rgb(6, 6, 86);
+}
+
+
+.info a:hover {
+    color: brown;
+}
+
+.info a:visited {
+    color: rgb(122, 171, 255);
+}
+
+
+p {
+    text-align: justify;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(7, 7, 81);
+    font-weight: 450;
+}
+
+li {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 450;
+    color: rgb(28, 28, 105);
+}
+
+header {
+    background-color: rgb(28, 28, 105);
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+#tagline {
+    text-align: center;
+    color: aliceblue;
+}
+
+footer {
+    background-color: rgb(28, 28, 105);
+    padding: 20px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+#footertext {
+    text-align: center;
+    color: aliceblue; 
+}
+
+.ref {
+    font-style: italic;
+}
